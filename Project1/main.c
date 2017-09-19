@@ -18,7 +18,32 @@
  * 
  */
 int main(int argc, char** argv) {
+    
+    // open file 
+    // 'Final Scores' 
+    
+    //read data from file
+    // either use a tokenizer or parser
+    
+    //collect:
+    // Name
+    // ID#
+    // A
+    // B
+    
+    // Save Information
+    // Redo order in ascending order for A 
+    
+    //calculate average standard deviation
+    // A then B
+    
+    //Output to screen
+    
+    //Open new file to write
+    // send information to file
 
     return (EXIT_SUCCESS);
 }
+
+
 
