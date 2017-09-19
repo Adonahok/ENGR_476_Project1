@@ -1,0 +1,9 @@
+# include <stdio.h>
+
+// Begins Project 1 
+// Read data from file and import into struct created
+// take saved struct information and analyze it
+// Students pass with a grade above 50
+// display results of who passed and who didn't 
+// also put result data into a seperate file
+
